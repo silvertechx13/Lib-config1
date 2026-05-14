@@ -3,7 +3,7 @@ require('dotenv').config();
 
 const config = {
     // MongoDB Configuration
-    MONGODB_URL: process.env.MONGODB_URL || 'mongodb+srv://talhax1:8zr98DVjawV2yCsg@cluster0.bm0emi4.mongodb.net/?appName=Cluster0',
+    MONGODB_URL: process.env.MONGODB_URL || 'mongodb+srv://proxabdullah007:abd219660@cluster0.0bcbpdw.mongodb.net/?appName=Cluster0',
     
     DB_NAME: process.env.DB_NAME || 'techx-x0',
     
