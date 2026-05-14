@@ -3,9 +3,9 @@ require('dotenv').config();
 
 const config = {
     // MongoDB Configuration
-    MONGODB_URL: process.env.MONGODB_URL || 'mongodb+srv://techX:5gejcRC9qwJmLXnG@cluster0.djzddgk.mongodb.net/?appName=Cluster0',
+    MONGODB_URL: process.env.MONGODB_URL || 'mongodb+srv://talhax1:8zr98DVjawV2yCsg@cluster0.bm0emi4.mongodb.net/?appName=Cluster0',
     
-    DB_NAME: process.env.DB_NAME || 'silver-x0',
+    DB_NAME: process.env.DB_NAME || 'techx-x0',
     
     COLLECTIONS: {
         SESSIONS: 'whatsapp_sessions',
